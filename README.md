@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is [Seu Nome] and I'm a Software Engineering Student from Brazil.</h2>
+<h2 align="left">Hey 👋! My name is Igor and I'm a Software Engineering Student from Brazil.</h2>
 
 ###
 
-<h3 align="left">🌱 About Me</h3>
+<h3 align="left">🌱 About me</h3>
 <div align="left">
   <p>
     - 🎓 I'm a Software Engineering student at the <strong>University of Brasília (UnB)</strong>.
