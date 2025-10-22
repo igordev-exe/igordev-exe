@@ -27,7 +27,7 @@
 ###
 
 <div align="right">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://br.pinterest.com/pin/635007616248996229"  />
 </div>
 
 ###
