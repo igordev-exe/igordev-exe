@@ -17,7 +17,7 @@
 
 ---
 
-<img align="right" width="400" src="https://github.com/igordev-exe/igordev-exe/blob/output/github-contribution-grid-snake-dark.svg" alt="cobrinha das contribuições" />
+<img align="right" width="400" src=<img align="right" width="400" src="https://raw.githubusercontent.com/igordev-exe/igordev-exe/output/github-contribution-grid-snake-dark.svg" alt="cobrinha das contribuições" />
 
 ## `< sobre_mim />`
 
