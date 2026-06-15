@@ -122,10 +122,10 @@ Igor eu = {
 
 ```
 while (alive) {
-    eat();
-    sleep();
-    code();     // ← prioridade máxima
-    repeat();
+    lift();
+    learn();
+    code();     //
+    nerd_out();
 }
 ```
 
@@ -134,32 +134,3 @@ while (alive) {
 </div>
 
 ---
-
-<!-- SNAKE SETUP INSTRUCTIONS (leia abaixo!) -->
-<!--
-  Para ativar a COBRINHA:
-  1. Vá em Settings > Actions > General > habilite "Allow GitHub Actions"
-  2. Crie o arquivo: .github/workflows/snake.yml com o conteúdo abaixo:
-
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 */12 * * *"
-    workflow_dispatch:
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: igordev-exe
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
