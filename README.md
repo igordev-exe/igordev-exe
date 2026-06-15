@@ -92,7 +92,7 @@ Igor eu = {
 
 </div>
 
-> ☕ **Byte and Brew** — [Substitua este texto por uma breve descrição do seu projeto, informando as tecnologias que utilizou e qual o objetivo principal da aplicação.]
+> ☕ **Byte and Brew** — [Sistema de vendas e fidelidade (XP) para a cafeteria geek Byte & Brew. Construído 100% em Java, o projeto foca na aplicação rigorosa de conceitos de Orientação a Objetos para garantir regras de negócio seguras, desde o bloqueio de vendas sem estoque até o resgate de pontos por clientes VIPs.]
 
 ---
 
