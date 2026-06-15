@@ -1,6 +1,6 @@
 <div align="center">
 
-```
+```text
 ██╗ ██████╗  ██████╗ ██████╗ ██████╗ ███████╗██╗   ██╗    ███████╗██╗  ██╗███████╗
 ██║██╔════╝ ██╔═══██╗██╔══██╗██╔══██╗██╔════╝██║   ██║    ██╔════╝╚██╗██╔╝██╔════╝
 ██║██║  ███╗██║   ██║██████╔╝██║  ██║█████╗  ██║   ██║    █████╗   ╚███╔╝ █████╗  
@@ -11,7 +11,7 @@
 
 ### `> Opa! Meu nome é Igor ★.°☆`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=500&color=FF6B9D&center=true&vCenter=true&width=600&lines=Software+Engineering+%40+UnB+%F0%9F%8E%93;Building+a+chess+engine+in+C+%E2%99%9F%EF%B8%8F;Deep+diving+into+Algorithms+%26+Data+Structures;Open+to+internship+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=500&color=FF6B9D&center=true&vCenter=true&width=600&lines=Software+Engineering+%40+UnB+%F0%9F%8E%93;Building+Byte+and+Brew+%E2%98%95;Deep+diving+into+Algorithms+%26+Data+Structures;Open+to+internship+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 <img align="right" width="400" src="https://raw.githubusercontent.com/igordev-exe/igordev-exe/output/github-contribution-grid-snake-dark.svg" alt="cobrinha das contribuições" />
 
-## `< sobre_mim />`
+### `< sobre_mim />`
 
 ```c
 typedef struct {
@@ -35,7 +35,7 @@ Igor eu = {
     .nome               = "Igor",
     .universidade       = "UnB — Brasília",
     .curso              = "Engenharia de Software",
-    .projeto_atual      = "Chess engine do zero em C ♟️",
+    .projeto_atual      = "Byte and Brew ☕",
     .objetivo           = "Crescer como dev & contribuir de verdade",
     .disponivel_para_estagio = true
 };
@@ -45,7 +45,7 @@ Igor eu = {
 
 ---
 
-## `< stack />`
+### `< stack />`
 
 <div align="center">
 
@@ -67,7 +67,7 @@ Igor eu = {
 
 ---
 
-## `< stats />`
+### `< stats />`
 
 <div align="center">
 
@@ -78,25 +78,25 @@ Igor eu = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=igordev-exe&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=igordev-exe&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## `< projeto_destaque />`
+### `< projeto_destaque />`
 
 <div align="center">
 
-[![Chess Engine](https://github-readme-stats.vercel.app/api/pin/?username=igordev-exe&repo=chess-c&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=c9d1d9)](https://github.com/igordev-exe)
+[![Byte and Brew](https://github-readme-stats.vercel.app/api/pin/?username=igordev-exe&repo=byte-and-brew&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=c9d1d9)](https://github.com/igordev-exe/byte-and-brew)
 
 </div>
 
-> ♟️ **Chess Engine em C** — Implementando movimentos legais, check, xeque-mate e uma IA básica do zero. Nada de bibliotecas externas.
+> ☕ **Byte and Brew** — [Substitua este texto por uma breve descrição do seu projeto, informando as tecnologias que utilizou e qual o objetivo principal da aplicação.]
 
 ---
 
-## `< atividade />`
+### `< atividade />`
 
 <div align="center">
 
@@ -106,7 +106,7 @@ Igor eu = {
 
 ---
 
-## `< contato />`
+### `< contato />`
 
 <div align="center">
 
@@ -120,7 +120,7 @@ Igor eu = {
 
 <div align="center">
 
-```
+```c
 while (alive) {
     lift();
     learn();
