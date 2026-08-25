@@ -13,6 +13,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=500&color=FF6B9D&center=true&vCenter=true&width=600&lines=Software+Engineering+%40+UnB+%F0%9F%8E%93;Meu+portf%C3%B3lio+roda+dentro+de+um+VS+Code+%F0%9F%96%A5%EF%B8%8F;HTML%2C+CSS+e+JS+puros+%E2%80%94+sem+build%2C+sem+framework;Open+to+internship+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
+[![Ver portfólio ao vivo](https://img.shields.io/badge/▶_VER_PORTFÓLIO_AO_VIVO-FF6B9D?style=for-the-badge&logoColor=white)](https://igordev-exe.github.io/igor-portfolio/)
+
 </div>
 
 ---
@@ -76,7 +78,22 @@ Igor eu = {
 |_____________________________________________________________________|/|
 ```
 
-O layout inteiro nasceu no **Figma** — paleta, hierarquia dos painéis, cada estado da interface — antes de qualquer linha de código. O que o export não entrega é comportamento, e é aí que está o projeto de verdade:
+#### Como foi feito
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#161b22','primaryTextColor':'#c9d1d9','primaryBorderColor':'#FF6B9D','lineColor':'#FF6B9D','secondaryColor':'#0d1117','tertiaryColor':'#0d1117','fontFamily':'monospace'}}}%%
+flowchart LR
+    A["🎨 Figma<br/>layout, paleta, estados"] --> B["📄 export estático<br/>caixas, cores, espaçamento"]
+    B --> C{"o que o export<br/>não entrega"}
+    C --> D["terminal que<br/>interpreta comandos"]
+    C --> E["command palette<br/>com busca fuzzy"]
+    C --> F["folding, sticky scroll,<br/>3 temas"]
+    D --> G["index.html<br/>~100 KB · sem build"]
+    E --> G
+    F --> G
+```
+
+O desenho vem primeiro: paleta, hierarquia dos painéis e cada estado da interface nascem no Figma antes de qualquer linha de código. O export dá conta do que é estático — o comportamento é escrito à mão.
 
 | | |
 |---|---|
@@ -124,23 +141,6 @@ Sistema de vendas e fidelidade (XP) para a cafeteria geek Byte & Brew. Construí
 
 ---
 
-### `< stats />`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=igordev-exe&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&bg_color=0d1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=c9d1d9" alt="stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordev-exe&layout=compact&langs_count=7&theme=radical&hide_border=true&cache_seconds=86400&bg_color=0d1117&title_color=FF6B9D&text_color=c9d1d9" alt="linguagens"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=igordev-exe&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ### `< contato />`
 
 <div align="center">
@@ -149,6 +149,14 @@ Sistema de vendas e fidelidade (XP) para a cafeteria geek Byte & Brew. Construí
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igoralvesrodrigues12@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-FF6B9D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://igordev-exe.github.io/igor-portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/igordev-exe)
+
+</div>
+
+<div align="center">
+
+![Seguidores](https://img.shields.io/github/followers/igordev-exe?style=flat-square&logo=github&color=FF6B9D&labelColor=0d1117&label=seguidores)
+![Último commit](https://img.shields.io/github/last-commit/igordev-exe/igor-portfolio?style=flat-square&color=FF6B9D&labelColor=0d1117&label=último%20commit)
+![Profile Views](https://komarev.com/ghpvc/?username=igordev-exe&color=FF6B9D&style=flat-square&label=visitas+no+perfil)
 
 </div>
 
@@ -164,8 +172,6 @@ while (alive) {
     nerd_out();
 }
 ```
-
-![Profile Views](https://komarev.com/ghpvc/?username=igordev-exe&color=FF6B9D&style=flat-square&label=visitas+no+perfil)
 
 </div>
 
